@@ -1,6 +1,6 @@
 # Disaster_tweet_classification
 
-Classifying disastrous tweets using machine learning.
+Classifying tweets containing disaster information using machine learning.
 Used python and Baye's Theorem to create a classifier from scratch.
 
 Data from : https://www.figure-eight.com/data-for-everyone/
